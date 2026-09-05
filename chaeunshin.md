@@ -1,12 +1,12 @@
-### 안녕하세요 성장하는 개발자 신채운입니다.👋
+### 안녕하세요 성장하는 개발자 신채운입니다. 👋
 
-- 🔭 현재 쿨라이밍 동아리  **ALL LA TA**를 운영하고 있습니다.
-- 🌱 스타트업 방법론(린스타트업, 고객 개발)과 풀스택 개발을 함께 공부하고 있습니다.
-- 👯 AI, 스타트업 관련 프로젝트 협업을 찾고 있습니다.
-- 📫 연락 방법: (chaeunshin@gachon.ac.kr)
+- 🧗 현재 클라이밍 동아리 **ALL LA TA**를 운영하고 있습니다.
+- 🚀 스타트업 방법론(린스타트업, 고객 개발)과 풀스택 개발을 함께 공부하고 있습니다.
+- 🤝 AI, 스타트업 관련 프로젝트 협업을 찾고 있습니다.
+- 📩 연락 방법: [chaeunshin@gachon.ac.kr](mailto:chaeunshin@gachon.ac.kr)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&hide_border=true)](https://github.com/YOUR_GITHUB_ID)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact)](https://github.com/YOUR_GITHUB_ID)
+[![github stats](https://github-readme-stats.vercel.app/api?username=chaeunshin&show_icons=true&hide_border=true)](https://github.com/chaeunshin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeunshin&layout=compact)](https://github.com/chaeunshin)
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
